@@ -3,7 +3,7 @@ archon
 Archon is a part of the Pythai artificial intellegence project written with Python. The ultimate goal is yet
 unclear but it will hopefully clarify at some point :) Currently it contains
 a basic genetic programming library and a nice car game that utilies genetic programming. 
-A second game called Archon has been already added with a Javascript GUI
+A second game called Archon has been already added with a Javascript web UI
 (thanks to satusuuronen) but it doesn't yet use genetic programming.
 
 Contents of archon:
